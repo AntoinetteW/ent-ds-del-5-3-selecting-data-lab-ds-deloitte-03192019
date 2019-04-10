@@ -4,9 +4,7 @@
 
 ## Introduction 
 
-NASA wants to go to Mars! Before they build their rocket, NASA needs to track information about all of the planets in the Solar System. In this lab, you'll practice querying the database with various SELECT statements. This will include selecting different columns, and employ other SQL clauses like WHERE to return the data desired.
-
-![solar_system](https://bilingualcarloscano.files.wordpress.com/2010/05/venus.jpg)
+NASA wants to go to Mars! Before they build their rocket, NASA needs to track information about all of the planets in the Solar System. In this lab, you'll practice querying the database with various SELECT statements. This will include selecting different columns, and employing other SQL clauses like WHERE to return the data desired.
 
 ## Objectives
 You will be able to:
